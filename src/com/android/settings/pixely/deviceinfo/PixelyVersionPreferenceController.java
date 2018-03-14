@@ -36,7 +36,7 @@ import com.android.settingslib.core.lifecycle.events.OnResume;
 import com.android.settingslib.RestrictedLockUtils;
 
 
-public class MospVersionPreferenceController extends AbstractPreferenceController
+public class PixelyVersionPreferenceController extends AbstractPreferenceController
         implements PreferenceControllerMixin, LifecycleObserver, OnResume {
 
     private static final String TAG = "PixelyVersionPref";
