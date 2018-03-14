@@ -15,5 +15,8 @@
 
     <!-- About phone screen, PixelyOS version -->
     <string name="pixely_version">PixelyOS Version</string>
+
+    <!-- About phone screen, device maintainer name -->
+    <string name="device_maintainer">Maintainer</string>
 </resources>
 
