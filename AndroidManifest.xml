@@ -3304,7 +3304,7 @@
             <meta-data android:name="com.android.settings.FRAGMENT_CLASS"
                        android:value="com.pixely.settings.PixelySettings"/>
             <meta-data android:name="com.android.settings.summary"
-                       android:resource="@string/pixely_settings_activity_summary"/>
+                       android:resource="@string/pixely_settings_summary"/>
         </activity>
     </application>
 </manifest>
