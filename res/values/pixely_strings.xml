@@ -18,9 +18,5 @@
 
     <!-- About phone screen, device maintainer name -->
     <string name="device_maintainer">Maintainer</string>
-
-    <!-- Main list strings -->
-    <string name="pixely_settings_title">Pixely Settings</string>
-    <string name="pixely_settings_summary">ROM features &amp; personalization</string>
 </resources>
 

@@ -3293,18 +3293,5 @@
         </activity>
 
         <!-- This is the longest AndroidManifest.xml ever. -->
-        <activity android:name=".Settings$PixelySettingsActivity"
-                  android:label="@string/pixely_settings_title"
-                  android:icon="@drawable/ic_settings_pixely">
-            <intent-filter android:priority="12">
-                <action android:name="com.android.settings.action.SETTINGS"/>
-            </intent-filter>
-            <meta-data android:name="com.android.settings.category"
-                       android:value="com.android.settings.category.ia.homepage"/>
-            <meta-data android:name="com.android.settings.FRAGMENT_CLASS"
-                       android:value="com.pixely.settings.PixelySettings"/>
-            <meta-data android:name="com.android.settings.summary"
-                       android:resource="@string/pixely_settings_activity_summary"/>
-        </activity>
     </application>
 </manifest>
